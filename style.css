@@ -7,6 +7,14 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.footer-links a{
+    color:#000;
+}
+
+.footer-title{
+    color:#000;
+}
+
 .accent-block{
     width:100%;
     display: flex;
@@ -669,7 +677,7 @@ label,
 a {
     font-family: Arial;
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 .container {
@@ -741,7 +749,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #333333;
 }
 
 h4 {
@@ -793,7 +801,9 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFF;
+    position: relative;
+    z-index: 1;
 }
 
 .btn-atomic-tangerine {
@@ -840,7 +850,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
