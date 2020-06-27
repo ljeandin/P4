@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+p {
+    font-size: 14px;
+}
+
 .social-name{
     color:#000;
 }
@@ -45,6 +49,11 @@ button {
 
 a:hover {
     text-decoration: none;
+    cursor: pointer;
+}
+
+a:focus {
+    border:solid 2px #000;
     cursor: pointer;
 }
 
@@ -706,9 +715,7 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
-}
+
 
 .tight-width-whitespace {
     max-width: 600px;
