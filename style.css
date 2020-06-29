@@ -270,7 +270,7 @@ h4{color:#333333!important;}
 .bloc-group,
 .bloc-group .bloc{display:block;width:100%;}
 .bloc-fill-screen .fill-bloc-top-edge,
-.bloc-fill-screen .fill-bloc-bottom-edge{padding:0 20px;
+.bloc-fill-screen .fill-bloc-bottom-edge{padding:0 20px;}
 @media (max-width:767px){.page-container{overflow-x:hidden;position:relative;}
 h1,
 h2,
