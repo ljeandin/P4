@@ -1,6 +1,7 @@
 body{margin:0;padding:0;background:#FFF;overflow-x:hidden;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
 p{font-size:14px;}
 strong{font-size:22px;line-height:1.4em;font-weight:lighter;}
+.footer-links li{padding-bottom:10px;}
 .social-name{color:#000;}
 .footer-links a{color:#000;}
 .footer-title{color:#000;}
@@ -308,7 +309,7 @@ p,
 .bloc-fill-screen .fill-bloc-top-edge,
 .bloc-fill-screen .fill-bloc-bottom-edge{padding-left:0;padding-right:0;}
 .a-block{padding:0 10px;}
-/***.btn-dwn{display:none;}***/;
+.btn-dwn{display:none;};
 .voffset{margin-top:5px;}
 .voffset-md{margin-top:20px;}
 .voffset-lg{margin-top:30px;}
