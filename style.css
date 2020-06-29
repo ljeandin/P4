@@ -320,5 +320,5 @@ form{padding:5px;}
 }
 @media (max-width:400px){.bloc{padding-left:0;padding-right:0;}
 }
-@media (max-width:767px){.bloc-mob-center-text{text-align:center;}
+@media (max-width:767px){.bloc-mob-center-text{text-align:center;} .img-responsive{margin:auto;}}
 }
