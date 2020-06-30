@@ -316,4 +316,7 @@ form{padding:5px;}
 .blocsapp-device-iphone5{background-size:216px 425px;padding-top:60px;width:216px;height:425px;}
 .blocsapp-device-iphone5 img{width:180px;height:320px;}
 @media (max-width:400px){.bloc{padding-left:0;padding-right:0;}}
-@media (max-width:767px){.bloc-mob-center-text{text-align:center;}.img-responsive{margin:auto;}}
+@media (max-width:767px){
+    .bloc-mob-center-text{text-align:center;}
+    .img-responsive{margin:auto;}
+}
