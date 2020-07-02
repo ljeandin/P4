@@ -271,8 +271,8 @@ h4{color:#333333!important;}
 .bloc-group,
 .bloc-group .bloc{display:block;width:100%;}
 .bloc-fill-screen .fill-bloc-top-edge,
-.bloc-fill-screen .fill-bloc-bottom-edge{padding:0 20px;}
-@media (max-width:767px){.page-container{overflow-x:hidden;position:relative;}
+.bloc-fill-screen .fill-bloc-bottom-edge{padding:0 20px;}}
+@media screen and (max-width:767px){.page-container{overflow-x:hidden;position:relative;}
 h1,
 h2,
 h3,
@@ -315,6 +315,6 @@ p,
 form{padding:5px;}
 .close-lightbox{display:inline-block;}
 .blocsapp-device-iphone5{background-size:216px 425px;padding-top:60px;width:216px;height:425px;}
-.blocsapp-device-iphone5 img{width:180px;height:320px;}
-@media (max-width:767px){.bloc-mob-center-text{text-align:center;}.img-responsive{margin:auto;}}
-@media (max-width:400px){.bloc{padding-left:0;padding-right:0;}}
+.blocsapp-device-iphone5 img{width:180px;height:320px;}}
+@media screen and (max-width:767px){.bloc-mob-center-text{text-align:center;}.img-responsive{margin:auto;}}
+@media screen and (max-width:400px){.bloc{padding-left:0;padding-right:0;}}
